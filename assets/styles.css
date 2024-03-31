@@ -1,0 +1,67 @@
+body {
+    background-color:rgb(45, 43, 43);
+    margin: 0;
+    height: 100vh;
+    font-family: sans-serif;
+
+}
+
+
+.first {
+    width: 20%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: white;
+    padding: 1rem;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+
+
+.second {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 3rem;
+
+}
+
+.red {
+    background-color: red;
+    text-align: start;
+    color: white;
+    padding: 1rem 2rem;
+
+}
+
+
+.yellow {
+    background-color: yellow;
+    text-align: start;
+    padding: 1rem 2rem;
+
+}
+
+.blue {
+    background-color: blue;
+    text-align: start;
+    padding: 1rem 2rem;
+
+}
+
+.orange {
+    background-color: orange;
+    text-align: start;
+    padding: 1rem 2rem; 
+
+}
